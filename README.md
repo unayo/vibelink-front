@@ -2,6 +2,9 @@
 
 ## 沉浸式藝術與風格導覽電商售票網站(TS)
 
+[https://vibelink-front.vercel.app/
+](https://vibelink-front.vercel.app/)
+
 ## 環境配置 (Tech Stack)
 
 - **核心框架**：Vue 3 (Composition API / `<script setup>`)
